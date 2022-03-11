@@ -1,6 +1,0 @@
-AI in games:
-Decision/ trees
-Pathfinding
-Fuzzy logic
-Finite state machines
-Artificial neural networks
